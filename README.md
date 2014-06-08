@@ -8,7 +8,7 @@ Install Go-strutils using the go get command:
 
     $ go get github.com/hjr265/go-strutils
 
-The only dependencies are the Go distribution.
+The only dependency is the Go distribution itself.
 
 ## Documentation
 
